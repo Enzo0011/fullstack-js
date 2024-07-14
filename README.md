@@ -1,4 +1,4 @@
-# realtime-chat-mern
+# fullstack-js
 
 > A Realtime Chat Application
 
